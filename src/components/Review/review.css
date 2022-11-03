@@ -1,0 +1,39 @@
+.Comment {
+    width: 800px;
+    margin: auto;
+}
+
+
+.Avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    object-fit: cover;
+    margin-right: 30px;
+}
+
+.UserInfo-name {
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.UserInfo {
+    display: flex;
+    margin-top: 60px;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.Comment-text {
+    margin-left: 60px;
+    padding: 20px;
+    border-radius: 16px;
+    background-color: rgb(226, 226, 226);
+}
+
+.Comment-date {
+    font-size: 12px;
+    margin-left: auto;
+
+}
+

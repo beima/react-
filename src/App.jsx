@@ -4,6 +4,7 @@ import Actors from './components/Actors/Actors';
 import Avatar from './components/Avatar/Avatar';
 import Name from './components/Name/Name';
 import Ratings from './components/Ratings/Ratings';
+import Review from './components/Review/Review';
 import Text from './components/Text/Text';
 // import Welcome from './Welcome';
 
@@ -37,6 +38,12 @@ function App() {
       </div>
 
     <Actors />
+
+    <Review 
+      name = "Sherkhan"
+      avatarUrl = {'http://user-life.com/uploads/posts/2018-08/1535615328_kak-udalit-avatarku-postavit-foto-sdelat-zagruzit-dobavit-telegramm-skayp-vayber-vatsap-windows-10.gif'}
+      text = "Kerremet kino..."
+      date = "03.11.2022 жыл"/>
 
     
 

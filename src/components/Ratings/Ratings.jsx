@@ -10,7 +10,7 @@ export default function Ratings(props) {
       <img src="https://iconsplace.com/wp-content/uploads/_icons/000000/256/png/rating-star-icon-256.png" alt="" />
       <img src="https://iconsplace.com/wp-content/uploads/_icons/000000/256/png/rating-star-icon-256.png" alt="" />
 
-      <h1>10/10</h1>
+      <h4>10/10</h4>
 
     </div>
   )
