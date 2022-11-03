@@ -1,0 +1,29 @@
+.actors {
+    width: 170px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: -4px 4px 10px rgb(176, 176, 176);
+    
+    
+}
+
+.actors h3 {
+    font-size: 15px;
+}
+
+.actors h4 {
+    font-size: 12px;
+    font-weight: 300;
+}
+
+.actors img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.actorsGroup {
+    display: flex;
+    gap: 10px;
+
+}

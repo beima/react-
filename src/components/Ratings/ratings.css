@@ -1,0 +1,11 @@
+.stars {
+    display: flex;
+    height: 20px;
+    margin-top: 30px;
+    align-items: center;
+
+}
+
+.stars img {
+    width: 20px;
+}
